@@ -1,7 +1,7 @@
 # 📚 Unpapered - AI-Powered PDF Chat Application
 
 <div align="center">
-  <img src="unpapered_frontend/assets/logos/logo.svg" alt="Unpapered Logo" width="220"> <br/>  <br/>  
+  <img src="unpapered_frontend/assets/logos/logo.svg" alt="Unpapered Logo" width="160"> <br/>  <br/>  
   
   **A modern Flutter mobile application for intelligent PDF interaction powered by Google Gemini AI**
   
@@ -153,6 +153,32 @@ flutter run
 -   **Context**: The AI remembers previous questions in your chat session
 -   **File Size**: Larger documents may take longer to process initially
 -   **Network**: Stable internet connection required for AI processing
+
+## 📱 App Screenshots
+
+<div>
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/529d242a-fb80-498a-906c-658802004854" alt="On-Board" width="160"/>
+<br><strong>📃 Onboarding Screen</strong>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/88eb21a6-df0d-4d7c-af44-5babfbe25097" alt="Login Page" width="160"/>
+<br><strong>🔑 Login Page</strong>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/1d244cbc-3018-4673-ac26-ae36c6fc42a5" alt="Home Page" width="160"/>
+<br><strong>🕊️ Home Page</strong>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/5aaf869e-000d-4a5c-9f67-5d5a75853d06" alt="Chat Page" width="160"/>
+<br><strong>🗨️ Chat Page</strong>
+</td>
+</tr>
+</table>
+</div>
+
 
 ## 🔌 API Flow
 
