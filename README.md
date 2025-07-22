@@ -11,6 +11,9 @@
   [![Firebase](https://img.shields.io/badge/Firebase-✓-orange.svg)](https://firebase.google.com/)
   [![Google AI](https://img.shields.io/badge/Google_Gemini-AI-red.svg)](https://ai.google.dev/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+### 📲 [Download APK](https://drive.google.com/uc?export=download&id=1F4QAfaqYo_UGflHlgweN9wqPs8ikmk__)
+
 </div>
 
 ---
@@ -65,7 +68,7 @@ Unpapered/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Unpapered
+git clone https://github.com/mohitooo28/Unpapered
 cd Unpapered
 ```
 
@@ -136,8 +139,6 @@ flutter run
 
 ## 📖 How to Use
 
-### 📚 For PDF Chat
-
 1. **Launch the App** - Open Unpapered on your mobile device
 2. **Sign In** - Authenticate using Firebase (Email/Google/etc.)
 3. **Upload PDF** - Select a PDF document from your device
@@ -178,7 +179,6 @@ flutter run
 </tr>
 </table>
 </div>
-
 
 ## 🔌 API Flow
 
